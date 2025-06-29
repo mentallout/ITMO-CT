@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: Valeria Aksenova
+Class-Path: ../../tests/artifacts/info.kgeorgiy.java.advanced.implementor.jar, ../../tests/artifacts/info.kgeorgiy.java.advanced.implementor.tools.jar
+Main-Class: info.kgeorgiy.ja.aksenova.implementor.Implementor
